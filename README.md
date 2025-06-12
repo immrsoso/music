@@ -1,2 +1,18 @@
-# music
-مورد علاقم
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>موسیقی مورد علاقه من</title>
+</head>
+<body style="text-align: center; font-family: sans-serif; direction: rtl; background-color: #f0f0f0; padding: 50px;">
+
+  <h1>🎵 موسیقی مورد علاقه من</h1>
+  <p>پخش آنلاین:</p>
+
+  <audio controls>
+    <source src="music.mp3" type="audio/mpeg">
+    مرورگر شما از پخش موسیقی پشتیبانی نمی‌کند.
+  </audio>
+
+</body>
+</html>
